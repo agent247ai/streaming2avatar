@@ -48,7 +48,7 @@ const DetailsSection = () => {
             backgroundPosition: "center"
           }}>
               <h2 className="text-2xl sm:text-3xl font-display text-white font-bold">
-                The details
+                Technical Specifications
               </h2>
             </div>
             
@@ -58,7 +58,7 @@ const DetailsSection = () => {
             border: "1px solid #ECECEC"
           }}>
               <h3 className="text-lg sm:text-xl font-display mb-6 sm:mb-8">
-                Precision engineering meets adaptive intelligence
+                Cutting-edge performance behind every interaction
               </h3>
 
               <div className="space-y-4 sm:space-y-6">
@@ -70,7 +70,7 @@ const DetailsSection = () => {
                   </div>
                   <div className="flex-1">
                     <div className="p-3 rounded-lg bg-gray-50/80 backdrop-blur-sm border border-gray-100">
-                      <span className="font-semibold text-base">Height:</span> 5'8"
+                      <span className="font-semibold text-base">Rendering:</span> 4K 60fps
                     </div>
                   </div>
                 </div>
@@ -83,7 +83,7 @@ const DetailsSection = () => {
                   </div>
                   <div className="flex-1">
                     <div className="p-3 rounded-lg bg-gray-50/80 backdrop-blur-sm border border-gray-100">
-                      <span className="font-semibold text-base">Capacity:</span> 55lbs
+                      <span className="font-semibold text-base">Latency:</span> &lt;50ms
                     </div>
                   </div>
                 </div>
@@ -96,7 +96,7 @@ const DetailsSection = () => {
                   </div>
                   <div className="flex-1">
                     <div className="p-3 rounded-lg bg-gray-50/80 backdrop-blur-sm border border-gray-100">
-                      <span className="font-semibold text-base">Weight:</span> 140lbs
+                      <span className="font-semibold text-base">Languages:</span> 100+
                     </div>
                   </div>
                 </div>
@@ -109,7 +109,7 @@ const DetailsSection = () => {
                   </div>
                   <div className="flex-1">
                     <div className="p-3 rounded-lg bg-gray-50/80 backdrop-blur-sm border border-gray-100">
-                      <span className="font-semibold text-base">Uptime:</span> 6hr
+                      <span className="font-semibold text-base">Emotions:</span> Real-time
                     </div>
                   </div>
                 </div>
@@ -122,7 +122,7 @@ const DetailsSection = () => {
                   </div>
                   <div className="flex-1">
                     <div className="p-3 rounded-lg bg-gray-50/80 backdrop-blur-sm border border-gray-100">
-                      <span className="font-semibold text-base">Movement:</span> 1.5M/S
+                      <span className="font-semibold text-base">Lip-sync:</span> Perfect
                     </div>
                   </div>
                 </div>
@@ -139,10 +139,10 @@ const DetailsSection = () => {
             backgroundPosition: "center"
           }}>
               <div className="inline-block px-4 sm:px-6 py-2 border border-white text-white rounded-full text-xs mb-4">
-                Request a demo
+                Experience live demo
               </div>
               <h2 className="text-2xl sm:text-3xl font-display text-white font-bold mt-auto">
-                See it for yourself
+                Meet Your Interactive Avatar
               </h2>
             </div>
             
@@ -192,7 +192,7 @@ const DetailsSection = () => {
                     type="submit" 
                     className="w-full px-6 py-3 bg-pulse-500 hover:bg-pulse-600 text-white font-medium rounded-full transition-colors duration-300"
                   >
-                    Request access
+                    Watch the Demonstration
                   </button>
                 </div>
               </form>

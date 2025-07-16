@@ -96,12 +96,12 @@ const HumanoidSection = () => {
                 animationDelay: "0.1s"
               }}>
                 <span className="inline-flex items-center justify-center w-5 h-5 rounded-full bg-pulse-500 text-white mr-2">02</span>
-                <span>Humanoid</span>
+                <span>Visual Excellence</span>
               </div>
             </div>
             
             <h2 className="section-title text-3xl sm:text-4xl md:text-5xl font-display font-bold mb-1 md:mb-2">
-              Why Humanoid
+              Unprecedented Visual Fidelity
             </h2>
           </div>
           
@@ -128,14 +128,14 @@ const HumanoidSection = () => {
               
               <div className="absolute top-4 right-4 z-20">
                 <div className="inline-flex items-center justify-center px-4 py-2 rounded-full bg-white/20 backdrop-blur-sm text-white">
-                  <span className="text-sm font-medium">The vision</span>
+                  <span className="text-sm font-medium">Photorealistic</span>
                 </div>
               </div>
               
               <div className="relative z-10 p-5 sm:p-6 md:p-8 h-full flex items-center">
                 <div className="max-w-lg">
                   <h3 className="text-2xl sm:text-3xl md:text-4xl font-display text-white font-bold leading-tight mb-4">
-                    We're giving AI a way to navigate the physical world
+                    Ultra-high resolution rendering with lifelike skin textures and natural lighting
                   </h3>
                 </div>
               </div>
@@ -164,14 +164,14 @@ const HumanoidSection = () => {
               
               <div className="absolute top-4 right-4 z-20">
                 <div className="inline-flex items-center justify-center px-4 py-2 rounded-full bg-white/20 backdrop-blur-sm text-white">
-                  <span className="text-sm font-medium">The vision</span>
+                  <span className="text-sm font-medium">Seamless Performance</span>
                 </div>
               </div>
               
               <div className="relative z-10 p-5 sm:p-6 md:p-8 h-full flex items-center">
                 <div className="max-w-lg">
                   <h3 className="text-2xl sm:text-3xl md:text-4xl font-display text-white font-bold leading-tight mb-4">
-                    We're bringing adaptive intelligence to where humans work
+                    Ultra-low latency interactions with smooth, fluid animations at 60fps
                   </h3>
                 </div>
               </div>
@@ -200,14 +200,14 @@ const HumanoidSection = () => {
               
               <div className="absolute top-4 right-4 z-20">
                 <div className="inline-flex items-center justify-center px-4 py-2 rounded-full bg-white/20 backdrop-blur-sm text-white">
-                  <span className="text-sm font-medium">The vision</span>
+                  <span className="text-sm font-medium">Advanced AI</span>
                 </div>
               </div>
               
               <div className="relative z-10 p-5 sm:p-6 md:p-8 h-full flex items-center">
                 <div className="max-w-lg">
                   <h3 className="text-2xl sm:text-3xl md:text-4xl font-display text-white font-bold leading-tight mb-4">
-                    We're creating companions, <span className="text-[#FC4D0A]">not replacements</span>
+                    Real-time emotional intelligence with <span className="text-[#FC4D0A]">perfect facial expressions</span>
                   </h3>
                 </div>
               </div>
